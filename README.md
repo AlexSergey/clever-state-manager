@@ -1,0 +1,1 @@
+# Clever State Manager

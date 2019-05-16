@@ -1,0 +1,32 @@
+{
+  "name": "clever-state-manager",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development node build",
+    "build": "NODE_ENV=production node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSergey/clever-state-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexSergey/clever-state-manager/issues"
+  },
+  "homepage": "https://github.com/AlexSergey/clever-state-manager",
+  "dependencies": {
+    "@alexsergey/async-loop": "1.0.0",
+    "valid-types": "1.0.2",
+    "limited-array": "1.0.0"
+  },
+  "devDependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "prop-types": "15.7.2",
+    "rocket-starter": "1.0.0"
+  }
+}
