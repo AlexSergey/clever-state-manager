@@ -1,8 +1,8 @@
 {
   "name": "clever-state-manager",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
     "start": "NODE_ENV=development node build",
     "build": "NODE_ENV=production node build"
