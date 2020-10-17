@@ -16,6 +16,7 @@ documentation
 webpack.customConfig.js
 
 lib
+dist
 coverage
 test-reports
 
