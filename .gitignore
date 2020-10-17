@@ -15,4 +15,8 @@ reports
 documentation
 webpack.customConfig.js
 
+lib
+coverage
+test-reports
+
 example/dist/stats.json

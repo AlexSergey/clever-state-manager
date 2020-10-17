@@ -1,4 +1,4 @@
-const { frontendCompiler } = require('rocket-starter');
+const { frontendCompiler } = require('@rockpack/compiler');
 const { resolve } = require('path');
 
 frontendCompiler({

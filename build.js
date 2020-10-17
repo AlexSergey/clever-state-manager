@@ -1,3 +1,13 @@
-const { libraryCompiler } = require('rocket-starter');
+const { libraryCompiler } = require('@rockpack/compiler');
 
-libraryCompiler('StateManager', {});
+libraryCompiler({
+  name: 'StateManager',
+  cjs: {
+    src: './src',
+    dist: './lib/cjs'
+  },
+  esm: {
+    src: './src',
+    dist: './lib/esm'
+  }
+});
