@@ -1,6 +1,6 @@
 {
   "name": "clever-state-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "dependencies": {
     "@alexsergey/async-loop": "1.0.1",
     "valid-types": "1.0.2",
-    "limited-array": "1.0.0"
+    "limited-array": "2.0.3"
   },
   "devDependencies": {
     "react": "16.8.6",

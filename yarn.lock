@@ -6974,10 +6974,10 @@ levenary@^1.1.1:
   dependencies:
     leven "^3.1.0"
 
-limited-array@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/limited-array/-/limited-array-1.0.0.tgz#8ddfd595a2f53893237775e0db9383f2e5dedfa0"
-  integrity sha512-iNdrRtxSZXnM4wmRxBPmdGwNo7vPnYkq+FVZGKslFTMZ+q3Kn7IyBBnEBDF96ZIrXKr8nTqlI3XwuojvqzaPWA==
+limited-array@2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/limited-array/-/limited-array-2.0.3.tgz#32d1d2dcd06f22fb6bdc3ceb6eb509f01d1779b4"
+  integrity sha512-TXar/g3RoKY0fdXyfSs+KdKsC9Hnj5AFgxmMU4NVfkk6eGvfc7V2+9G5sN05CrVWH+SgTSH+wkMFp1rS+XQXuA==
 
 lines-and-columns@^1.1.6:
   version "1.1.6"
